@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autor MRX-S
+#Autor YACHI-LD
 
 #Colours
   greencolour="\e[0;32m\033[1m"
